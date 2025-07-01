@@ -1,4 +1,4 @@
-def apply():
-    a = 1 + 1
-    return True
-a = apply()
+def main():
+    a = 1
+    print(1)
+main()
