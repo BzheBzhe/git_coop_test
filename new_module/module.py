@@ -1,1 +1,2 @@
-print('cococo!')
+def new_mod():
+    print('cococo!')
