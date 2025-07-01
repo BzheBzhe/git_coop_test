@@ -1,4 +1,2 @@
-def main():
-    a = 1
-    print(1)
-main()
+print("ololo")
+print("gitgit")
