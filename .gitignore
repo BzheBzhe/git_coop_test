@@ -1,0 +1,65 @@
+# Python стандартні
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальні середовища
+venv/
+env/
+ENV/
+.venv/
+
+# IDE / редактори
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PyQt специфічні тимчасові файли
+*.pyc
+*.pyo
+*.pyd
+*.spec
+
+# Qt Designer файли (якщо генеруються)
+*.ui
+*.qrc
+*.ts
+
+# Файли збірки, кеші
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Логи і тимчасові файли
+*.log
+*.tmp
+*.temp
+
+# MacOS (якщо використовуєш macOS)
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Coverage, тестові файли
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+build_p/
+
+generate_ara.py
+list_defs.py
+ara
+requirements.txt
